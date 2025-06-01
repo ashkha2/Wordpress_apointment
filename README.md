@@ -11,7 +11,7 @@ A comprehensive appointment booking plugin for WordPress with admin management a
 
 ## Installation
 1. Download the plugin files
-2. Upload to `/wp-content/plugins/appointment-booking-system/`
+2. Upload to `/wp-content/plugins/appointment-booking-system/` or just Import(WP-Admin panel)
 3. Activate through WordPress admin
 4. Use shortcode `[appointment_booking]` on any page
 
